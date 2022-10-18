@@ -1,0 +1,28 @@
+KGDBA
+고신영   USER01
+김영욱   USER02
+김예나   USER03
+김유진   USER04
+김은채   USER05
+김재환   USER06
+노태윤   USER07
+도현우   USER08
+안종범   USER09
+양정용   USER10
+이상재   USER11
+
+
+KGDBB
+이승학   USER01
+이진호   USER02
+이철민   USER03
+이혜인   USER04
+전은결   USER05
+전호윤   USER06
+정은비   USER07
+조준희   USER08
+최용주   USER09
+홍정훈   USER10
+황현중   USER11
+
+PASSWORD : Seoul_2022##

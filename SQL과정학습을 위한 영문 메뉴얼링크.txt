@@ -1,0 +1,28 @@
+SQL 사용자를 위한 가이드 
+SQL Language Reference
+https://docs.oracle.com/en/database/oracle/oracle-database/12.2/sqlrf/index.html
+SQL Language Quick Reference
+https://docs.oracle.com/en/database/oracle/oracle-database/12.2/sqlqr/index.html
+2 Day Developer's Guide  (SQL사용자를 위한 기초 이론 정리)
+https://docs.oracle.com/en/database/oracle/oracle-database/12.2/tdddg/index.html
+
+SQL DEVELOPER 사용자 가이드 
+https://docs.oracle.com/en/database/oracle/sql-developer/20.4/rptug/index.html
+
+SQL PLUS 사용자 가이드 
+SQL*Plus User's Guide and Reference
+https://docs.oracle.com/en/database/oracle/oracle-database/12.2/sqpug/index.html
+SQL*Plus Quick Reference
+https://docs.oracle.com/en/database/oracle/oracle-database/12.2/sqpqr/index.html#SQPQR101
+
+PL/SQL 사용자 가이드
+Database PL/SQL Language Reference
+https://docs.oracle.com/en/database/oracle/oracle-database/12.2/lnpls/index.html
+
+데이타베이스 Reference
+https://docs.oracle.com/en/database/oracle/oracle-database/12.2/refrn/index.html
+
+Oracle Database 12c SQL 1Z0-071 시험 데모 사이트
+https://www.examtopics.com/exams/oracle/1z0-071/
+
+
